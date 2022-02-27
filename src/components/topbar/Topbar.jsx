@@ -1,6 +1,6 @@
 import React from "react";
 import "./Topbar.scss";
-import {Person, Mail} from '@mui/icons-material';
+import {Person, Mail} from '@material-ui/icons';
 
 export default function Topbar() {
   return (
