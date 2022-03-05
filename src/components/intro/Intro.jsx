@@ -16,10 +16,10 @@ export default function Intro() {
           <h3>
             Software <span></span>
           </h3>
+          <a href="#portfolio">
+            <img src="assets/down.png" alt="" />
+          </a>
         </div>
-        {/* <a href="#portfolio"> have some size problem cannot change
-          <img src="assets/down.png" alt="" />
-        </a> */}
       </div>
     </div>
   );
